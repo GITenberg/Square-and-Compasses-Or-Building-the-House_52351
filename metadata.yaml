@@ -1,0 +1,36 @@
+_repo: Square-and-Compasses-Or-Building-the-House_52351
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Sheppard, William Ludwell
+    alias: Sheppard, W. L. (William Ludwell)
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '31450'
+    url: http://www.gutenberg.org/2009/agents/31450
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2016-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Square and Compasses; Or, Building the House
+url: http://www.gutenberg.org/ebooks/52351
